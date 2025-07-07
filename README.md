@@ -2,7 +2,7 @@
 
 **Overview**
 
-This Tableau project explores maternal mortality trends across the United States, highlighting healthcare disparities based on geography, ethnicity, and socioeconomic factors. Using publicly available datasets, the analysis provides insights into key drivers of maternal health outcomes and identifies states with disproportionately high mortality rates.
+This Tableau project explores maternal mortality trends across the United States from 2018 - 2023, highlighting healthcare disparities based on geography, ethnicity, and socioeconomic factors. Using publicly available datasets, the analysis provides insights into key drivers of maternal health outcomes and identifies states with disproportionately high mortality rates.
 
 **Key Insights**
 
